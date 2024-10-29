@@ -1,4 +1,4 @@
-# Guess the Truth Game (COMP3234/ELEC3443)
+# Guess the Truth 
 
 This project demonstrates a simple client-server application where clients can join "rooms" to play a guessing game. The game showcases the use of sockets and threading in Python for network-based applications. Clients authenticate with the server, join rooms, and guess the outcome of a randomized Boolean value. This project is intended as an example for implementing network applications using sockets and threading in Python.
 
